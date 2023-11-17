@@ -1,2 +1,2 @@
 # vimMastery
-List of vim commands
+Helpful list of vim commands
